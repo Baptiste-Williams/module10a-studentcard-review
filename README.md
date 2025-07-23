@@ -34,7 +34,8 @@ Review and update the StudentCard code, identify bugs, explain functionality, an
 
 ## App Preview
 
-![StudentCard Screenshot](./studentcard-app.png)
+<img width="1912" height="1071" alt="Screen shot 3 of localhost url" src="https://github.com/user-attachments/assets/7731ebd4-ce79-4d8f-b5a2-335c8eb20bde" />
+
 
 ## Tech Used
 
